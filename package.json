@@ -23,12 +23,5 @@
   },
   "homepage": "https://github.com/dlottermann/dlottermann#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-coffee": "latest",
-    "gulp-concat": "latest",
-    "gulp-connect": "latest",
-    "gulp-sass": "latest",
-    "gulp-uglify": "latest",
-    "gulp-util": "^3.0.8"
   }
 }
